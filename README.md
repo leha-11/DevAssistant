@@ -32,7 +32,6 @@
 * [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU) - интерактивный тренажер
 
 ### Сервисы
-
 * GitHub - https://github.com
 * BitBucket - https://bitbucket.org
 * GitLab - https://gitlab.com
@@ -42,9 +41,10 @@
 * [Can I use](http://caniuse.com) - поддержка веб-технологий браузерами
 
 ## HTML
-* [Валидатор](https://validator.w3.org) 
+* [Валидатор HTML](https://validator.w3.org) 
 
 ## CCS
+* [Валидатор CSS](http://jigsaw.w3.org/css-validator)
 * [LearnLayout](http://ru.learnlayout.com) - учебник на русском
 
 ## Руководства
