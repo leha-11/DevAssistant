@@ -47,6 +47,11 @@
 * [Валидатор CSS](http://jigsaw.w3.org/css-validator)
 * [LearnLayout](http://ru.learnlayout.com) - учебник на русском
 
+# Bootstrap
+* [Bootstrap](https://getbootstrap.com) - официальный сайт
+* [itChief](https://itchief.ru/bootstrap) - учебник на русском
+* [bootstrap-4.ru](https://bootstrap-4.ru/docs/4.5/getting-started/introduction) - документация на русском
+* [HTML5CSS](https://html5css.ru/bootstrap4/default.php) - учебник на русском
 ## Руководства
 * [БЭМ](https://ru.bem.info) - подход к веб-разработке (блок__элемент_модификатор)
 * [htmlBook](http://htmlbook.ru) - справочник по HTML и CSS на русском
